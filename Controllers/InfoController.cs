@@ -13,7 +13,7 @@ namespace HNG12S0T0.Controllers
             {
                 email = "ezedigwegerald1@gmail.com",
                 current_datetime = DateTime.UtcNow.ToString("o"),
-                github_url = "https://github.com/Odili1/hng12-s0-t1"
+                github_url = "https://github.com/Odili1/HNG12S0T0"
             };
 
             return Ok(response);
