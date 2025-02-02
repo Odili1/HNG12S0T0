@@ -1,0 +1,38 @@
+# Ignore the bin and obj folders (build artifacts)
+bin/
+obj/
+
+# Ignore user-specific Visual Studio and Rider files
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.ide
+
+# Ignore compiled files and logs
+*.exe
+*.dll
+*.pdb
+*.log
+
+# Ignore environment and config files
+appsettings.*.json
+secrets.json
+
+# Ignore dependency folders
+node_modules/
+packages/
+wwwroot/lib/
+
+# Ignore .NET Core user secrets (for security)
+.vs/
+.env
+secrets/
+
+# Ignore IDE-specific files
+.idea/
+*.csproj.user
+
+# Ignore coverage reports and test results
+coverage/
+TestResults/
