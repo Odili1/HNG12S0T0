@@ -12,7 +12,7 @@ builder.Services.AddControllers();
 
 var app = builder.Build();
 
-app.UseCors();
+app.UseCors("AllowAll");
 app.MapControllers();
 
 app.Run();
