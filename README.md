@@ -49,7 +49,7 @@ Returns:
 
 ## Deployment
 
-Live URL:
+Live URL: https://hng12s0t0-production.up.railway.app
 
 GitHub Repo: https://github.com/Odili1/hngHNG12S0T0
 
